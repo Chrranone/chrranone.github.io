@@ -1,10 +1,19 @@
-### 个人信息
+### **个人信息**
+* 姓名：曹浩然
+* 学校：石家庄铁道大学
+* 专业：软件工程
+* 涉及方向：爬虫、web开发
+* 兴趣爱好：骑行、摄影、足球
 
-### 项目经历
+### **项目经历**
+* 旅客智能行程推荐系统
+* “冻龄时光”商城系统
+* 个人博客
+* 文章分类、查重系统
 
-### 奖励荣誉
+### **奖励荣誉**
 
-### 联系方式
+### **联系方式**
 
 ```markdown
 Syntax highlighted code block
@@ -26,10 +35,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chrranone/chrranone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

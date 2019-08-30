@@ -6,32 +6,20 @@
 * 兴趣爱好：骑行、摄影、足球
 
 ### **项目经历**
+```markdown
+
 * 旅客智能行程推荐系统
-* “冻龄时光”商城系统
+* “冻龄时光”护肤品商城系统
 * 个人博客
 * 文章分类、查重系统
 
-### **奖励荣誉**
-
-### **联系方式**
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### **联系方式**
+* 邮箱：anserlt@163.com
+* 微信：chrrant
+* 博客园：[奕然的博客](https://www.cnblogs.com/chrran/)
+* 个人博客：[Anserlt的个人博客]()
+
+
 
